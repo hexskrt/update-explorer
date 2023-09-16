@@ -1,0 +1,18 @@
+{
+    "chain_name": "cheqd",
+    "api": ["https://api.cheqd.nodestake.top", "https://api.cheqd.net"], 
+    "rpc": ["https://rpc.cheqd.nodestake.top", "https://rpc.cheqd.net:443"],
+    "sdk_version": "0.46.10",
+    "coin_type": "118",
+    "min_tx_fee": "50000",
+    "theme_color": "#046909",
+    "assets": [{
+        "base": "ncheq",
+        "symbol": "CHEQ",
+        "exponent": "9",
+        "coingecko_id": "cheqd-network", 
+        "logo": "/logos/cheqd.svg"
+    }],
+    "addr_prefix": "cheqd",
+    "logo": "/logos/cheqd.svg"
+}

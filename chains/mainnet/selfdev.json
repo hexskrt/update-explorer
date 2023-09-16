@@ -1,0 +1,18 @@
+{
+    "chain_name": "selfchain-devnet",
+    "api": ["https://api-t.self.nodestake.top", "https://selfchain-api.codeblocklabs.com"], 
+    "rpc": ["https://rpc-t.self.nodestake.top", "https://selfchain-rpc.codeblocklabs.com"],
+    "sdk_version": "0.45.10",
+    "coin_type": "118",
+    "min_tx_fee": "5000",
+    "theme_color": "#046909",
+    "assets": [{
+        "base": "uself",
+        "symbol": "SELF",
+        "exponent": "6",
+        "coingecko_id": "", 
+        "logo": "/logos/selfchain.jpg"
+    }],
+    "addr_prefix": "self",
+    "logo": "/logos/selfchain.jpg"
+}

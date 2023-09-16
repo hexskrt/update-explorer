@@ -1,0 +1,20 @@
+{
+    "chain_name": "blockx-testnet",
+    "api": ["https://atlantis-api.blockxnet.com", "https://api-t.blockx.nodestake.top"],
+    "rpc": ["https://atlantis-rpc.blockxnet.com", "https://rpc-t.blockx.nodestake.top"],
+    "snapshot_provider": "",
+    "sdk_version": "0.45.7",
+    "coin_type": "60",
+    "min_tx_fee": "5000",
+    "theme_color": "#046909",
+    "addr_prefix": "blockx",
+    "logo": "/logos/blockx.png",
+    "keplr_features": ["ibc-transfer", "ibc-go", "eth-address-gen", "eth-key-sign"],
+    "assets": [{
+        "base": "abcx",
+        "symbol": "BCX",
+        "exponent": "18",
+        "coingecko_id": "",
+        "logo": "/logos/blockx.png"
+    }]
+}

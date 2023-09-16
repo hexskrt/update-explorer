@@ -1,0 +1,19 @@
+{
+    "chain_name": "ixo",
+    "api": ["https://api-ixo-ia.cosmosia.notional.ventures", "https://proxies.sifchain.finance/api/impacthub-3/rest"],
+    "rpc": ["https://rpc-ixo-ia.cosmosia.notional.ventures"],
+    "snapshot_provider": "",
+    "sdk_version": "0.45.4",
+    "coin_type": "118",
+    "min_tx_fee": "3000",
+    "theme_color": "#046909",
+    "addr_prefix": "ixo",
+    "logo": "/logos/ixo.svg",
+    "assets": [{
+        "base": "uixo",
+        "symbol": "IXO",
+        "exponent": "6",
+        "coingecko_id": "ixo", 
+        "logo": "/logos/ixo.svg"
+    }]
+}

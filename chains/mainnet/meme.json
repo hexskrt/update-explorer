@@ -1,0 +1,18 @@
+{
+    "chain_name": "meme",
+    "api": ["https://meme-api.polkachu.com", "https://api-meme-1.meme.sx"],
+    "rpc": ["https://meme-rpc.polkachu.com", "https://rpc-meme-1.meme.sx"],
+    "sdk_version": "0.45.9",
+    "coin_type": "118",
+    "min_tx_fee": "8000",
+    "theme_color": "#046909",
+    "addr_prefix": "meme",
+    "logo": "/logos/meme.png",
+    "assets": [{
+        "base": "umeme",
+        "symbol": "MEME",
+        "exponent": "6",
+        "coingecko_id": "meme-network",
+        "logo": "/logos/meme.png"
+    }]
+}

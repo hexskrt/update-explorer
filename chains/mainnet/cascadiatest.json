@@ -1,0 +1,20 @@
+{
+    "chain_name": "cascadia-testnet",
+    "api": ["https://api-t.cascadia.nodestake.top", "https://cascadia-testnet.api.kjnodes.com"],
+    "rpc": ["https://rpc-t.cascadia.nodestake.top", "https://cascadia-testnet.rpc.kjnodes.com"],
+    "snapshot_provider": "",
+    "sdk_version": "v0.46.10",
+    "coin_type": "60",
+    "min_tx_fee": "5000",
+    "theme_color": "#046909",
+    "addr_prefix": "cascadia",
+    "logo": "/logos/cascadia.jpg",
+    "keplr_features": ["ibc-transfer", "ibc-go", "eth-address-gen", "eth-key-sign"],
+    "assets": [{
+        "base": "aCC",
+        "symbol": "CC",
+        "exponent": "18",
+        "coingecko_id": "",
+        "logo": "/logos/cascadia.jpg"
+    }]
+}

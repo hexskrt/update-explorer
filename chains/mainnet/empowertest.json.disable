@@ -1,0 +1,19 @@
+{
+    "chain_name": "empower-testnet",
+    "api": ["https://api-t.empower.nodestake.top", "https://empower-testnet-api.itrocket.net:443"],
+    "rpc": ["https://rpc-t.empower.nodestake.top", "https://empower-testnet-rpc.itrocket.net:443"],
+    "snapshot_provider": "",
+    "sdk_version": "0.47.2",
+    "coin_type": "118",
+    "min_tx_fee": "5000",
+    "theme_color": "#046909",
+    "addr_prefix": "empower",
+    "logo": "/logos/empower.jpg",
+    "assets": [{
+        "base": "umpwr",
+        "symbol": "MPWR",
+        "exponent": "6",
+        "coingecko_id": "",
+        "logo": "/logos/empower.jpg"
+    }]
+}

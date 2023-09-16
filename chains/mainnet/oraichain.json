@@ -1,0 +1,19 @@
+{
+    "chain_name": "oraichain",
+    "api": ["https://lcd.orai.network", "https://api-oraichain.mms.team"],
+    "rpc": ["https://rpc.orai.network", "https://rpc-oraichain.mms.team"], 
+    "snapshot_provider": "",
+    "sdk_version": "0.45.15",
+    "coin_type": "118",
+    "min_tx_fee": "2000",
+    "theme_color": "#046909",
+    "addr_prefix": "orai",
+    "logo": "/logos/oraichain.jpg",
+    "assets": [{
+        "base": "orai",
+        "symbol": "ORAI",
+        "exponent": "6",
+        "coingecko_id": "oraichain-token",
+        "logo": "/logos/oraichain.jpg"
+    }]
+}

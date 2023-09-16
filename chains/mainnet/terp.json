@@ -1,0 +1,19 @@
+{
+    "chain_name": "terp",
+    "api": ["https://terp-mainnet-api.itrocket.net:443"],
+    "rpc": ["https://terp-mainnet-rpc.itrocket.net:443"],
+    "snapshot_provider": "",
+    "sdk_version": "0.47.1",
+    "coin_type": "118",
+    "min_tx_fee": "500",
+    "theme_color": "#046909",
+    "addr_prefix": "terp",
+    "logo": "/logos/terp-network.jpg",
+    "assets": [{
+        "base": "uterp",
+        "symbol": "TERP",
+        "exponent": "6",
+        "coingecko_id": "",
+        "logo": "/logos/terp-network.jpg"
+    }]
+}

@@ -1,0 +1,19 @@
+{
+    "chain_name": "router-testnet",
+    "api": ["https://lcd.testnet.routerchain.dev"],
+    "rpc": ["https://rpc-t.router.nodestake.top"],
+    "snapshot_provider": "",
+    "sdk_version": "0.46.8",
+    "coin_type": "60",
+    "min_tx_fee": "5000",
+    "theme_color": "#046909",
+    "addr_prefix": "router",
+    "logo": "/logos/router.jpg",
+    "keplr_features": ["ibc-transfer", "ibc-go", "eth-address-gen", "eth-key-sign"],
+    "assets": [{
+        "base": "route",
+        "symbol": "ROUTE",
+        "exponent": "18",
+        "logo": "/logos/router.jpg"
+    }]
+}

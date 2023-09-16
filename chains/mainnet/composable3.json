@@ -1,0 +1,20 @@
+{
+    "chain_name": "composable-3",
+    "api": ["https://composable-testnet.api.kjnodes.com"],
+    "rpc": ["https://composable-testnet.rpc.kjnodes.com"],
+    "coingecko": "",
+    "snapshot_provider": "",
+    "sdk_version": "0.47.1",
+    "coin_type": "118",
+    "min_tx_fee": "5000",
+    "theme_color": "#046909",
+    "addr_prefix": "banksy",
+    "logo": "/logos/composable.jpg",
+    "assets": [{
+        "base": "ppica",
+        "symbol": "PICA",
+        "exponent": "12",
+        "coingecko_id": "",
+        "logo": "/logos/composable.jpg"
+    }]
+  }
