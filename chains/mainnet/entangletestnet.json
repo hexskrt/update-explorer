@@ -1,7 +1,7 @@
 {
     "chain_name": "entangle-testnet",
-    "api": ["https://api-entangle.vinjan.xyz"],
-    "rpc": ["https://rpc-entangle.vinjan.xyz"],
+    "api": ["https://api-t.entangle.nodestake.top"],
+    "rpc": ["https://rpc-t.entangle.nodestake.top"],
     "snapshot_provider": "",
     "sdk_version": "0.46.12",
     "coin_type": "60",
