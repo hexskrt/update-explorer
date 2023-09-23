@@ -180,7 +180,7 @@ function pageload(p: number) {
       <div class="flex flex-col lg:!flex-row pt-2 pb-1">
         <div class="flex-1">
           <div class="flex">
-            <div class="avatar mr-4 relative w-24 rounded-lg overflow-hidden">
+            <div class="avatar mr-4 relative rounded-full w-24 overflow-hidden">
               <div class="w-24 rounded-lg absolute opacity-10"></div>
               <div class="w-24 rounded-lg">
                 <img
