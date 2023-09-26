@@ -1,7 +1,7 @@
 {
     "chain_name": "mantra-testnet",
-    "api": ["https://rest.mantra.nodexcapital.com"], 
-    "rpc": ["https://rpc.mantra.nodexcapital.com"],
+    "api": ["https://rest.mantra.nodexcapital.com", "https://api-t.mantra.nodestake.top"], 
+    "rpc": ["https://rpc.mantra.nodexcapital.com", "https://api-t.mantra.nodestake.top"],
     "sdk_version": "0.47.4",
     "coin_type": "118",
     "min_tx_fee": "420",
@@ -11,8 +11,8 @@
         "symbol": "AUM",
         "exponent": "6",
         "coingecko_id": "", 
-        "logo": "/logos/mantra.png"
+        "logo": "/logos/mantra.jpg"
     }],
     "addr_prefix": "mantra",
-    "logo": "/logos/mantra.png"
+    "logo": "/logos/mantra.jpg"
 }
