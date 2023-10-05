@@ -1,0 +1,18 @@
+{
+    "chain_name": "bitcanna-testnet",
+    "api": ["https://rest.bitcanna-dev.hexnodes.co", "https://bitcanna-testnet.rpc.kjnodes.com"], 
+    "rpc": ["https://rpc.bitcanna-dev.hexnodes.co", "https://bitcanna-testnet.api.kjnodes.com"],
+    "sdk_version": "0.46.14",
+    "coin_type": "118",
+    "min_tx_fee": "5000",
+    "theme_color": "#046909",
+    "assets": [{
+        "base": "ubcna",
+        "symbol": "BCNA",
+        "exponent": "6",
+        "coingecko_id": "bitcanna", 
+        "logo": "/logos/bitcanna.svg"
+    }],
+    "addr_prefix": "bcna",
+    "logo": "/logos/bitcanna.svg"
+}
