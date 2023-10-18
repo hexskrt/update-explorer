@@ -1,7 +1,7 @@
 {
     "chain_name": "desmos",
-    "api": ["https://desmos-api.lavenderfive.com", "https://lcd-desmos.whispernode.com"],
-    "rpc": ["https://desmos-rpc.lavenderfive.com", "https://rpc-desmos.whispernode.com"],
+    "api": ["https://api.mainnet.desmos.network", "https://desmos-api.ibs.team"],
+    "rpc": ["https://rpc.mainnet.desmos.network", "https://desmos-rpc.ibs.team"],
     "sdk_version": "0.47.3",
     "coin_type": "118",
     "min_tx_fee": "8000",
