@@ -1,7 +1,7 @@
 {
     "chain_name": "althea-testnet",
-    "api": ["https://api-althea.nodeist.net", "https://althea-l1.api.t.anode.team"],
-    "rpc": ["https://rpc-althea.nodeist.net", "https://althea-l1.rpc.t.anode.team"],
+    "api": ["https://althea.api.t4.stavr.tech", "https://althea-l1.api.t.anode.team"],
+    "rpc": ["http://althea.rpc.t.stavr.tech:17887/", "https://althea-l1.rpc.t.anode.team"],
     "snapshot_provider": "",
     "sdk_version": "0.45.16",
     "coin_type": "60",
