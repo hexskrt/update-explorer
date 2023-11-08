@@ -1,0 +1,18 @@
+{
+    "chain_name": "sge",
+    "api": ["https://api.sge.nodestake.top", "https://lcd.sge.hexnodes.co"], 
+    "rpc": ["https://rpc.sge.nodestake.top", "https://rpc.sge.hexnodes.co"],
+    "sdk_version": "0.46.14",
+    "coin_type": "118",
+    "min_tx_fee": "500",
+    "theme_color": "#046909",
+    "assets": [{
+        "base": "usge",
+        "symbol": "SGE",
+        "exponent": "6",
+        "coingecko_id": "", 
+        "logo": "/logos/sge.jpg"
+    }],
+    "addr_prefix": "sge",
+    "logo": "/logos/sge.jpg"
+}
