@@ -1,0 +1,18 @@
+{
+    "chain_name": "sge-testnet",
+    "api": ["https://sge-testnet-api.polkachu.com", "https://api-t.sge.nodestake.top"], 
+    "rpc": ["https://sge-testnet-rpc.polkachu.com", "https://rpc-t.sge.nodestake.top"],
+    "sdk_version": "0.46.14",
+    "coin_type": "118",
+    "min_tx_fee": "500",
+    "theme_color": "#046909",
+    "assets": [{
+        "base": "usge",
+        "symbol": "SGE",
+        "exponent": "6",
+        "coingecko_id": "six-sigma", 
+        "logo": "/logos/sge.jpg"
+    }],
+    "addr_prefix": "sge",
+    "logo": "/logos/sge.jpg"
+}
